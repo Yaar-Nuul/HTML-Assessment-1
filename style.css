@@ -53,3 +53,12 @@ gap: 20px;
     display: flex;
     gap: 20px;
 }
+#footer{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+.footer-text{
+    display: flex;
+    gap: 20px;
+}
