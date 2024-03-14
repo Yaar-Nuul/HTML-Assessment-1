@@ -1,0 +1,16 @@
+#navbar{
+    
+}
+.mini-nav{
+    background-color: black;
+    color: lightslategray;
+    text-align: center;
+}
+
+
+
+
+.button{
+    background-color: aliceblue;
+    display: flex;
+    gap: 80px;}
