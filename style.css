@@ -1,16 +1,55 @@
 #navbar{
-    
+    display: flex;
+    gap: 30%;
+
 }
 .mini-nav{
-    background-color: black;
+    background-color: darkgreen;
     color: lightslategray;
     text-align: center;
+
 }
 
 
-
-
-.button{
-    background-color: aliceblue;
+button{
+    border: solid 1px white;
+    
+}
+.style-button{
     display: flex;
     gap: 80px;}
+.nav-text{
+    display: flex;
+    gap: 20px;
+
+}
+#t-shirt{
+    padding: 20px;
+}
+#cap{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    padding: 20px;
+}
+#bag{
+display: flex;
+gap: 20px;
+}
+.glasses{
+    display: flex;
+}
+.bag-1{
+display: flex;
+gap: 20px;
+}
+.word{
+    text-align: center;
+}
+#hoodie{
+    display: flex;
+}
+.sweater{
+    display: flex;
+    gap: 20px;
+}
