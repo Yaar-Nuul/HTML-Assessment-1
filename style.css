@@ -29,7 +29,8 @@ button{
 #cap{
     display: flex;
     gap: 70px;
-    justify-content: center;
+    margin-top: 10%;
+    font-size: 40px;
     padding: 20px;
 }
 #bag{
@@ -57,8 +58,25 @@ gap: 20px;
     display: flex;
     gap: 20px;
     padding: 20px;
+    margin: 20px;
 }
 .footer-text{
+    display: flex;
+    gap: 20px;
+}
+.Crewneck{
+display: flex;
+gap: 50px;
+padding: 20px;
+}
+.cotton{
+    padding: 10%;
+}
+.denim{
+    display: flex;
+    gap: 20px;
+}
+.ankle-boots{
     display: flex;
     gap: 20px;
 }
